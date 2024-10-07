@@ -4,8 +4,7 @@
 **shravya-nallamilli/shravya-nallamilli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 Graduated in Data Analytics from a 14-week Bootcamp by The Skills Network.
-- 💞️ Completed a Python & Apps Course with Code First Girls.
+- 💞️ Completed a Python & Apps 8-weeks Course with Code First Girls.
 - 👀 Aspiring to work in the Tech industry.
 - 🌱 Always working on projects to build my portfolio.
 - 💞️ Open to entry-level and junior-level roles.
