@@ -5,7 +5,6 @@
 -->
 
 - 💞️ Completed a Python & Apps 8-weeks Course with Code First Girls.
-- 👀 Aspiring to work in the Tech industry.
 - 🌱 Always working on projects to build my portfolio.
 - 💞️ Open to entry-level and junior-level roles.
 - 📫 Feel free to connect with me on LinkedIn (attached to my profile).
